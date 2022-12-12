@@ -1,3 +1,4 @@
 producto,cantidad,valor
 esponjas,30,500
 confort,50,1000
+pan,1.5,1000
